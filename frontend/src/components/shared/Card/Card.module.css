@@ -1,0 +1,26 @@
+.card{
+    background: #1d1d1d;
+    width: 500px;
+    padding: 2rem;
+    border-radius: 15px;
+  }
+  
+  .headingWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  
+  .headingWrapper span{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 0.6rem;
+  }
+  
+  .inviteTextWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #1758a1;
+  }

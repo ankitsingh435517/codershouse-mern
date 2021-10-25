@@ -1,0 +1,24 @@
+.button{
+  border: none;
+  outline: none;
+  color: #fff;
+  font-weight: bold;
+  padding: 0.3rem 1rem;
+  background: #227adf;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  transition: all .3s ease-in-out;
+  cursor: pointer;
+}
+
+.button:hover{
+  background: #1758a1;
+}
+
+.button img{
+  margin-left: 0.5rem;
+}
